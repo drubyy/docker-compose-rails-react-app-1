@@ -1,0 +1,9 @@
+.default-layout-wrapper {
+  width: 100%;
+  min-height: 1100px;
+  background-color: #f6f7fa;
+}
+
+.default-layout-body {
+  padding: 30px 25px;
+}

@@ -1,0 +1,39 @@
+.percent-complete {
+  background-color: black;
+  height: 100%;
+  margin: 0 0 0 0 !important;
+  position: absolute;
+  left: 0;
+}
+
+.task-btn {
+  padding: 0 !important;
+  border-radius: 0 !important;
+}
+
+.title-task {
+  width: fit-content !important;
+  color: black;
+  position: absolute;
+  left: 0;
+  font-weight: 300;
+}
+
+.row-wrapper-task {
+  height: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.task {
+  border: 1px solid #C9CCD1;
+  margin-top: 2px;
+}
+
+.progress-bar-task {
+  position: absolute;
+  bottom: 0 !important;
+}

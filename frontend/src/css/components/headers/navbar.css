@@ -1,0 +1,12 @@
+.navbar-default-wrapper{
+  background-color: #A64BF4;
+  width: 100%;
+  height: 45px;
+}
+
+.navbar-default-wrapper a{
+  float: right;
+    margin-right: 10px;
+    color: white !important;
+    margin-top: 10px;
+}
