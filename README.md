@@ -1,4 +1,7 @@
-- Run command: docker-compose up
+- Run command: 
+  docker-compose up
+  docker-compose exec -it tm-app rails db:create
+  docker-compose exec -it tm-app rails db:migrate
 - Host: localhost:3000
 - Time spent: ~12h
 
