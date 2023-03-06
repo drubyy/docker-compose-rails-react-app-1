@@ -1,3 +1,4 @@
+### Sample build task management with docker compose + react + rails
 - Run command: 
   - docker-compose up
   - docker-compose exec -it tm-app rails db:create
